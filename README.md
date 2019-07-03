@@ -1,5 +1,8 @@
 # Where should you book your next _Airbnb_?
 ## An Airbnb Data Visualization Project
+| Data Mingling | Data Cleansing | Data Visualization | Animation |  
+| Jupyter Notebook | Python | Google API | Pandas | Matplotlib | Seaborn |  
+
 Members: Murali Calambur, Anuj Desai, Santosh Singh, Estella Yu  (by last name)
 
 [![Watch the video](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/working/Output/Gmaps_Visualization/Animation/airbnb_listing.gif)](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/working/Output/Gmaps_Visualization/Animation/airbnb_listing.gif)
@@ -29,4 +32,4 @@ In a metropolis like New York City, millions of tourists are expected every mont
 ## Data Source: 
 [Inside Airbnb](http://insideairbnb.com/): `Listing`, `Reviews` and `Calendar` .csv datasets  
 [Tom Slee Airbnb](http://tomslee.net/category/airbnb-data): Airbnb datasets in New York, with `historical listing price` included  
-[Google API](https://console.developers.google.com): Retrieve goolge mao location with (lat, lng) coords
+[Google API](https://console.developers.google.com): Retrieve goolge map location with (lat, lng) coords
