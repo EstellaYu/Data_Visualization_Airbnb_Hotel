@@ -29,6 +29,36 @@ In a metropolis like New York City, millions of tourists are expected every mont
   
 ![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/working/Output/Histroric_Listing_Count_and_Average_Price.png "Airbnb Listings Price in NYC")
 
+### 2. Party Size & Room Type (Manhattan)
+It's for sure that `Entire Apt` can provide you the best privacy, and you might think that maybe sacraficing a little privacy and going for `Private Room` can save you some bucks. Well, according to the analysis, **it might NOT be so SIMPLE**
+
+#### 1) Book with a **`Bigger Party`** & **`Save More`**
+  * In general, there are `more options` with `smaller party size`
+  * According to the `Median`, booking with a `larger pary size` can overall `save more $$$` 
+  * You can, of course, go for a **fancy** Airbnb option easily in Manhattan, since there are LOTS of expensive outliers across all party sizes 
+  
+![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/estella/Output/AveragePriceDistBoxPlot.png "Box plot Accommodation & Room Type in NYC")
+
+#### 2) There is an **`Optimum Pary Size`** for each Room Type
+  * In general, it's true that the price/person (with cleaning fee) rank as: `Entire Apt` > `Private Room` > `Share Room`. **But**, there is an **`Optimum Pary Size`** that can help you to save the most!
+     * If you are a `privacy person` -- Try `Entire Apt`. Booking with a group size `5-9` can offer you the cheapest price per person in Manhattan
+     * If you are more towrads an `interaction person` -- Try gather a group of `3-4` friends with `Private Rooms` booking!  
+
+![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/estella/Output/MeanPriceByRoomTypes.png "Accommodation & Room Type in NYC")
+
+### 3. Where Should I Book?
+_"How awesome is that if I can stay in Time Square! But if I can't afford it just yet, where can I find the next best?"_  
+You can probably find the answer in the following box chart, which sorts the regions based on `median price/person`. 
+* There is a general trend that the Airbnb `price/person` **`increaeses`** `from uptown to downtown`:  
+  * The 3 `lowest cost` regions: `Inwood and Washington Heights` (lowest), `Central Harlem`, `East Harlem`
+  * The 3 `most expensive` regions: `Greenwich Village and Soho` (most expensive), `Chelsea and Clinton`, `Lower Manhattan`
+  
+* If you want to hack the price around, you might want to try some mid-priced area. (Why not having a nice location & cheaper price !)
+
+![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/estella/Output/priceperregion.png "Regional in NYC")
+
+![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/estella/Output/priceperregion.png "Regional in NYC")
+
 ## Data Source: 
 [Inside Airbnb](http://insideairbnb.com/): `Listing`, `Reviews` and `Calendar` .csv datasets  
 [Tom Slee Airbnb](http://tomslee.net/category/airbnb-data): Airbnb datasets in New York, with `historical listing price` included  
