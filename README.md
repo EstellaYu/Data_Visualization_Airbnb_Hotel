@@ -57,7 +57,7 @@ You can probably find the answer in the following box chart, which sorts the reg
 
 ![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/estella/Output/priceperregion.png "Regional in NYC")
 
-![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/estella/Output/priceperregion.png "Regional in NYC")
+![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/estella/Output/RegionalPricing_Map.png "RegionalPriceMap")
 
 ## Data Source: 
 [Inside Airbnb](http://insideairbnb.com/): `Listing`, `Reviews` and `Calendar` .csv datasets  
