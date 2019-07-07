@@ -59,6 +59,14 @@ You can probably find the answer in the following box chart, which sorts the reg
 
 ![alt text](https://github.com/EstellaYu/Data_Visualization_Airbnb_Hotel/blob/estella/Output/RegionalPricing_Map.png "RegionalPriceMap")
 
+## The Ultimate Summary
+
+##### * Airbnb can be a great option if you are traveling in NYC (offering cheaper lodgging options compared to hotels, and a different city experience)
+##### * You have a lot of options -- There are more than `49k` Airbnb in NYC, and `~15k` in Manhattan alone
+##### * You can pick your favorate region based on your budget $$$ and the price map above
+##### * Try to go with a larger party -- a group of `5-9` is the cheapest with `Entire Room`, and `3-4` is the optimum size with `Private Room`. 
+#### `ENJOY YOUR TRIP IN NYC!`
+
 ## Data Source: 
 [Inside Airbnb](http://insideairbnb.com/): `Listing`, `Reviews` and `Calendar` .csv datasets  
 [Tom Slee Airbnb](http://tomslee.net/category/airbnb-data): Airbnb datasets in New York, with `historical listing price` included  
